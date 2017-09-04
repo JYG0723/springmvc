@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MariaDB - springdemo@localhost" uuid="6fe8fd97-2200-4cb9-963c-02f4c1eff8d9">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/springdemo</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="defaultPersistenceUnit/Hibernate" uuid="957d0c6f-c1b5-42cb-80e3-489b8cb1e5de">
+      <imported>true</imported>
+      <configured-by-url>true</configured-by-url>
+      <remarks>$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml</remarks>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/springdemo?useSSL=false</jdbc-url>
+    </data-source>
+  </component>
+</project>
