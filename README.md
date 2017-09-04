@@ -9,41 +9,38 @@
 ## Demo 截图
 
 ### 首页
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7yda7ms5j30hr09kgmb.jpg)
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/92692202.jpg)
 
 
 ---
 ### 用户管理页面
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7ydakuqij30xa0jjq4x.jpg)
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/44572351.jpg)
 
 ### 用户添加页面
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7ydab9t6j31680but9c.jpg)
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/39981090.jpg)
 
 ### 用户详情页面
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7ytn3gfbj31690bu74x.jpg)
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/53342806.jpg)
 
 ### 用户更新页面
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7yda4z26j30ou0gwjs2.jpg)
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/51383003.jpg)
 
 ### 用户删除页面
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7ydanc7lj311x0joq56.jpg)
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/54294214.jpg)
 
 ---
 
-### 博客管理页
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7yp0eqh1j311s0o7776.jpg)
+### 博客管理页面
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/94027536.jpg)
 
-### 博客添加页
-40
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7yrpo6naj316c0i1wfg.jpg)
+### 博客添加页面
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/87558977.jpg)
 
-### 博客详情页
-41
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7yozluk0j312b0bzdgl.jpg)
+### 博客详情页面
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/40386091.jpg)
 
-### 博客修改页
-49
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7ys6u2plj316f0i6gmo.jpg)
+### 博客修改页面
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/50352383.jpg)
 
-### 博客删除页
-![](http://ww1.sinaimg.cn/large/006gmCthly1fj7yp0eqh1j311s0o7776.jpg)
+### 博客删除页面
+![](http://otsgsfu16.bkt.clouddn.com/17-9-5/76824778.jpg)
