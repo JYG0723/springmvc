@@ -42,6 +42,7 @@
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
           <element id="library" level="project" name="Maven: org.mariadb.jdbc:mariadb-java-client:2.1.0" />
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.30" />
+          <element id="library" level="project" name="Maven: org.springframework:springloaded:1.2.7.RELEASE" />
         </element>
       </element>
       <element id="directory" name="META-INF">

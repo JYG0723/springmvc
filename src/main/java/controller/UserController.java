@@ -107,6 +107,12 @@ public class UserController {
         return "redirect:/admin/users";
     }
 
+    /**
+     * 删除用户操作
+     *
+     * @param userId
+     * @return
+     */
     @RequestMapping(value = "/delete/{id}", method = RequestMethod.DELETE)
     @ResponseBody
     public String deleteUser(@PathVariable("id") Integer userId) {
