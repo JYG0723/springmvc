@@ -1,4 +1,4 @@
-# SpringMvc 学习Demo
+# SpringMVC 学习Demo
 
 本项目只是一个简单的学习例子。
 学习过程中完全参照博客：http://my.oschina.net/gaussik/blog/385697 相关系列的文章，总五篇。感谢作者Gaussic（一个为AI而奋斗却不得不兼顾项目的研究生）
